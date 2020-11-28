@@ -39,7 +39,7 @@ Epoch 12/12
 
 
 Summary:
-* 24s/epoch
+* 64s/epoch
 * 129ms/step
 * 98.9% final accuracy
 ```
